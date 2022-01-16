@@ -50,6 +50,3 @@ function Listing() {
 }
 
 export default Listing;
-function userEffect(arg0: any) {
-  throw new Error("Function not implemented.");
-}
